@@ -1,0 +1,1 @@
+This is Mira's first git project!
